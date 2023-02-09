@@ -3,6 +3,8 @@
 **About Project:**
 Adventure Works Cycles, a global manufacturing company, wants to design and deliver an end to end business intelligence solution from scratch!
 
+Data contains information about transactions, returns, products, customers and territories
+
 **Key Objective**
 - Track KPIs (sales , revenue , profit , returns )
 - Analyze product level trends and forecasts
