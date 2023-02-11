@@ -11,9 +11,3 @@ Data contains information about transactions, stores, returns, products, custome
 - Compare regional performance
 - Identify high value customers
 
-**Question to answer:**
-- Which time of the month sees the rise in the sales of the product?
-- Which product category has the highest sales and revenue?
-- Which product location has the highest sales and revenue?
-- What is the change in month to month change in products revenue?
- 
