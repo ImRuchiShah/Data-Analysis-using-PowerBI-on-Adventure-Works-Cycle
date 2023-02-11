@@ -3,7 +3,7 @@
 **About Project:**
 Adventure Works Cycles, a global manufacturing company, wants to design and deliver an end to end business intelligence solution from scratch!
 
-Data contains information about transactions, returns, products, customers and territories
+Data contains information about transactions, stores, returns, products, customers and territories
 
 **Key Objective**
 - Track KPIs (sales , revenue , profit , returns )
@@ -12,7 +12,8 @@ Data contains information about transactions, returns, products, customers and t
 - Identify high value customers
 
 **Question to answer:**
-- Which are the top products drawing high sales, reveue, profit and returns?
-- Which is the region having highest sales of the product?
-- Which time of the month sees the rise in the profit of the product?
-- Who are the high value values?
+- Which time of the month sees the rise in the sales of the product?
+- Which product category has the highest sales and revenue?
+- Which product location has the highest sales and revenue?
+- What is the change in month to month change in products revenue?
+ 
