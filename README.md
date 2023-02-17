@@ -5,6 +5,7 @@ Adventure Works Cycles, a global manufacturing company, wants to design and deli
 
 Data contains information about transactions, stores, returns, products, customers and territories
 
+
 **Key Objective**
 - Sales report giving detailed insights on best selling products and profitable customers.
 
